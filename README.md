@@ -1,6 +1,7 @@
-Hi! It's me! \n
-Hello, World! \n
+Hi! It's me!
+Hello, World!
 와 나 아시는구나
+어떻게 엄준식이 사람 이름이냐
 
 <!--
 **Hestia2345/Hestia2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

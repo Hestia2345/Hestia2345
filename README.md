@@ -1,5 +1,5 @@
-Hi! It's me!
-Hello, World!
+Hi! It's me! \n
+Hello, World! \n
 와 나 아시는구나
 
 <!--

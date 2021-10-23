@@ -5,7 +5,11 @@ javascript
 
 I'm just something.
 
+I don't use python.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hestia2345)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hestia2345)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

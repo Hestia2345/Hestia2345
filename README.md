@@ -1,4 +1,9 @@
-Hi, there! 👋
+Hello, I'm Hestia!
+
+learning:
+javascript
+
+I'm just something.
 
 <!--
 **Hestia2345/Hestia2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
